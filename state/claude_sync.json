@@ -1,0 +1,1806 @@
+{
+ "lastExportAt": "2026-11-09T21:21:55.752540+00:00",
+ "unacked": {
+  "notes/29z6f8zx6xuy5fd3q0dg": {
+   "hash": "526b1cd400753ba5e42145b2411c5c6164d2dcec00a46cc417c2029485ffc091",
+   "data": {
+    "action": "move",
+    "created": "2026-10-16T14:36:43.220Z",
+    "date": "2026-10-16",
+    "moveTo": "2026-10-19",
+    "reply": "Done. The events lead and North America one-on-ones sit on Oct 19.",
+    "status": "actioned",
+    "task": "2026-10-12#2",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/taxqhyfcztb59oxoyi1m": {
+   "hash": "005b769ae0069e009c76e0e8fc290b4335dec4435343b70c1504e55f0ad18578",
+   "data": {
+    "action": "move",
+    "created": "2026-10-01T17:10:01.146Z",
+    "date": "2026-10-05",
+    "moveTo": "2026-10-05",
+    "reply": "Drafted the email to Darwal: 2026-10-02_Email-to-Darwal_AI-Council-Deck_DRAFT.md in IBEX/Run-Sheet-Work. It asks for the deck and the five pieces you need to turn it into a proof story, and says why (D8 by Oct 30, Seismic by Nov 30). Please confirm he goes by Mike before you send. No plan changes.",
+    "status": "actioned",
+    "task": "2026-10-05#3",
+    "text": "Draft the email for me to send to Darwall. Be as detailed and clear as you can be about specifically what we're looking for and why we need it. Be sure that it does not sound like AI wrote it. If you need to use the ghost review you can, but make sure that it sounds friendly and like something that was written by Andrew."
+   },
+   "base": null
+  },
+  "notes/pihx4cs13zud8vst246y": {
+   "hash": "90f4fe845282ea0c5fe000ee1f9cf92be6e49547509ad0e239d1412bbffc48f1",
+   "data": {
+    "action": "move",
+    "created": "2026-10-19T21:20:46.245Z",
+    "date": "2026-10-19",
+    "moveTo": "2026-10-20",
+    "reply": "Superseded. This task moved again and now sits on Oct 26.",
+    "status": "actioned",
+    "task": "2026-10-12#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/r2rh6eh0mmlr1knrzpqu": {
+   "hash": "72ac27b79bce801c13797e5ca9501ff283e063a00811c589ba65545153e9e3e1",
+   "data": {
+    "action": "move",
+    "created": "2026-10-12T14:28:26.986Z",
+    "date": "2026-10-12",
+    "moveTo": "2026-10-16",
+    "reply": "Events lead and other North America one-on-ones now sit on Oct 16. D6 stays due Oct 23.",
+    "status": "actioned",
+    "task": "2026-10-12#2",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/mqiljuoo0f7l5wlduqdb": {
+   "hash": "6b07a637cb8450fa670b454402b62f0324ed25b7aa1a713743c71a5478298c83",
+   "data": {
+    "action": "move",
+    "created": "2026-10-15T21:55:31.784Z",
+    "date": "2026-10-15",
+    "moveTo": "2026-10-16",
+    "reply": "The remaining one-on-ones, Jamaica included, are on today, Oct 16. D6 stays due Oct 23.",
+    "status": "actioned",
+    "task": "2026-10-12#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/uvr6jly1gd7j1jlb79xq": {
+   "hash": "1dd84c260f78340211e913078ebc9f184fb04afa881421f97bc711d024231f3a",
+   "data": {
+    "action": "move",
+    "created": "2026-10-15T21:56:24.175Z",
+    "date": "2026-10-15",
+    "moveTo": "2026-10-20",
+    "reply": "The earned coverage and analyst mentions pull is on Oct 20. It still lands before the Oct 26 baselines one-pager. D4 stays due Oct 30.",
+    "status": "actioned",
+    "task": "2026-10-15#2",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/4ty02134ar2o5e4z1e9q": {
+   "hash": "924124458531ddf9ea39cbade76138993d4a0aa9b5f52e8c5b93b9004a42ed7c",
+   "data": {
+    "action": "move",
+    "created": "2026-10-08T14:45:29.445Z",
+    "date": "2026-10-08",
+    "moveTo": "2026-10-15",
+    "reply": "Moved 'One-on-one with Moses and the Philippines leads' to Oct 15. No later task depends on it, so nothing else moved. D6 stays due Oct 23.",
+    "status": "actioned",
+    "task": "2026-10-08#0",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/lix6go7k4znxpvz5430v": {
+   "hash": "20fc0f025a0171abf93591def35b86b8b3d505c361ee10f7177bd0c2fc92e051",
+   "data": {
+    "action": "move",
+    "created": "2026-10-16T14:47:34.320Z",
+    "date": "2026-10-16",
+    "moveTo": "2026-10-21",
+    "reply": "Done. The Salesforce and GA4 reconcile sits on Oct 21, after Heather's updated pull.",
+    "status": "actioned",
+    "task": "2026-10-15#1",
+    "text": "sent updated request to Heather."
+   },
+   "base": null
+  },
+  "notes/n20261005leaderpages": {
+   "hash": "31508cc38a7d923b131c5efb1593ebb6aaad5dfbe772b1611b6f8c2f7caa0ace",
+   "data": {
+    "action": "note",
+    "created": "2026-10-05T16:45:29.000Z",
+    "date": "2026-10-06",
+    "reply": "Added the leader profile slot ask to today's Bram session task. Also added a check to the Oct 14 sitemap lock to keep or pull the slot based on Julie's answer. D5 stays due Oct 23.",
+    "status": "actioned",
+    "task": "2026-10-06#3",
+    "text": "Raise leader profile pages with Bram in this session. Ask him to hold a slot in the sitemap draft for a leader profile page: each photo on the About Us leadership page opens a profile with a short bio, a 90-second video clip, and a transcript, with room for podcast episodes later. It needs to be in the sitemap before the Oct 14 lock and the Oct 23 confirmation (D5). Julie hasn't decided yet, so this is a held slot that comes out if she says no. Background: 2026-10-05_ibex_Podcast_Brief_DRAFT in IBEX/Run-Sheet-Work."
+   },
+   "base": null
+  },
+  "notes/00pvsb4fm3c4r8xojuj2": {
+   "hash": "c22a0989982860c8044e53b33a09eb68a1bd6d888151d2b8fc73092481a4c4f3",
+   "data": {
+    "action": "move",
+    "created": "2026-10-12T14:21:20.563Z",
+    "date": "2026-10-12",
+    "moveTo": "2026-10-15",
+    "reply": "One-on-ones with Bram, Dan and Heather now sit on Oct 15. Nothing depends on them. D6 stays due Oct 23.",
+    "status": "actioned",
+    "task": "2026-10-07#4",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/9jptczr837fqe5dh0lh0": {
+   "hash": "366bc8ba20eb82587106e7f5a7090d5264bcce8e8745c1e12d81638943d6ad3b",
+   "data": {
+    "action": "split",
+    "created": "2026-10-07T14:37:44.505Z",
+    "date": "2026-10-07",
+    "moveTo": "2026-10-07",
+    "newTask": "amuy7p86x",
+    "reply": "Pulled 24 months of ibex.co GA4 data. It is in IBEX/Run-Sheet-Work as 2026-10-08_ibex-co_GA4_24-Month_Traffic_and_Forms_DRAFT.md. The big gap: GA4 only records a form submit event from September 2026 (148 submits), so Heather's Salesforce history is the only lead record before then. Tick the GA4 task when you're happy with it.",
+    "rest": "Pull ibex.co traffic and form events from GA4 for the same 24 months.",
+    "status": "actioned",
+    "task": "2026-10-07#1",
+    "text": "Claude pulls this data.  you don't need me to do anything.  But I do approve of Claude pulling it."
+   },
+   "base": null
+  },
+  "notes/5vxzspsc4smdmldlgen5": {
+   "hash": "3130e247ad56bc53c8dfffd4faef1155c47bba32ca67eb90f50dfb352b0ccc43",
+   "data": {
+    "action": "move",
+    "created": "2026-10-15T21:55:08.605Z",
+    "date": "2026-10-15",
+    "moveTo": "2026-10-19",
+    "reply": "The one-on-one with Moses and the Philippines leads is on Oct 19. It still lands before D6 is due on Oct 23. Nothing else needed to move.",
+    "status": "actioned",
+    "task": "2026-10-08#0",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/m74red20c5nnxevcgv3y": {
+   "hash": "1ae1fe944863762e246bce26884aa9bb80a5cc9a6aee4e1a0705f7b0a47353d5",
+   "data": {
+    "action": "move",
+    "created": "2026-10-12T14:22:15.376Z",
+    "date": "2026-10-12",
+    "moveTo": "2026-10-15",
+    "reply": "Hoffman scorecard draft is on Oct 15, so I moved 'Walk the draft scorecard and agree it' from today to Oct 16, the morning before you send it to Julie. D3 stays due Oct 16. The weekly Hoffman call is Tuesday, so send Hoffman the draft on Oct 15 and agree it by a short call or email on Oct 16.",
+    "status": "actioned",
+    "task": "2026-10-12#0",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/c1030note1": {
+   "hash": "4b5154a8c251104d6cf3fcecb277a6cd1854b4708afdd131dc9f254d6baa7da3",
+   "data": {
+    "action": "note",
+    "created": "2026-10-30T22:00:00.000Z",
+    "date": "2026-10-30",
+    "reply": "No sign the baselines one-pager went to Julie, and the Oct 26 drafting task is unticked. Did it go? If not, it needs a new date.",
+    "status": "question",
+    "task": "2026-10-30#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/uob8ea6w1s1jkswtmj1c": {
+   "hash": "93241f38e30a96cda1c4131be3ea461dcf374e2998ee270267f343e46a46d3de",
+   "data": {
+    "action": "move",
+    "created": "2026-10-15T21:55:20.417Z",
+    "date": "2026-10-15",
+    "moveTo": "2026-10-19",
+    "reply": "Drafting the Hoffman scorecard is now on Oct 19. I moved 'Walk the draft scorecard' to the Oct 20 Hoffman call and 'Send Julie the agreed scorecard' to Oct 21. That puts D3 past its Oct 16 due date. Ask Julie today for Oct 21, or agree the targets with Hoffman by email before Monday.",
+    "status": "actioned",
+    "task": "2026-10-12#0",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/ron6ier0sce2rs0r6jw3": {
+   "hash": "849164d192ba0270e8d91fd64a99fb9dc3fd3c878ed3b2ae79cf528b7f2283ae",
+   "data": {
+    "action": "move",
+    "created": "2026-10-19T21:20:11.934Z",
+    "date": "2026-10-19",
+    "moveTo": "2026-10-22",
+    "reply": "Done. Confirming the Bob date with Char sits on Oct 22.",
+    "status": "actioned",
+    "task": "2026-10-19#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/fjl2ae9pazma8gd4z3a3": {
+   "hash": "6871de2691228b1d31bbe6a0562c08f7a333d27e5e83171a3e754ead8aa7e54a",
+   "data": {
+    "action": "split",
+    "created": "2026-10-15T21:54:47.271Z",
+    "date": "2026-10-15",
+    "moveTo": "2026-10-16",
+    "newTask": "amva2u354",
+    "reply": "The remaining one-on-ones with Bram, Dan and Heather are on today, Oct 16. D6 stays due Oct 23, so you are still on track.",
+    "rest": "One-on-ones: Bram, Dan, Heather.",
+    "status": "actioned",
+    "task": "2026-10-07#4",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/9iv24nbpvb7w5x162ws0": {
+   "hash": "8d34f602d5bb36668ad6bf535be9027a08b2183cf9536b9df80b1c58b39d54e8",
+   "data": {
+    "action": "move",
+    "created": "2026-10-20T21:54:29.408Z",
+    "date": "2026-10-20",
+    "moveTo": "2026-10-22",
+    "reply": "Done. The Bob walkthrough task sits on Oct 22. The walkthrough itself still isn't booked; Julie owns timing with Char.",
+    "status": "actioned",
+    "task": "2026-10-20#0",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/g98irgjs25pi84317qfq": {
+   "hash": "2412c8d994dcbaec149448aad6aadac67f990e7b8ffb0e727b7013405f5d125a",
+   "data": {
+    "action": "split",
+    "created": "2026-10-07T14:39:02.321Z",
+    "date": "2026-10-07",
+    "moveTo": "2026-10-08",
+    "newTask": "amuy7qw8h",
+    "reply": "No change. The inventory stays on today, Oct 8, while you wait for Dan. The Oct 19 calendar build needs his files, and D2 is due Oct 23, so chase him by Oct 14 if nothing has come in.",
+    "rest": "Start the analyst inventory for Gartner, Everest, Forrester, Frost & Sullivan, HFS Research, ISG, NelsonHall and Avasant: contact, last interaction, report cycles, submission deadlines. Get Dan's files.",
+    "status": "actioned",
+    "task": "2026-10-07#2",
+    "text": "I asked Dan for this information and am waiting."
+   },
+   "base": null
+  },
+  "notes/8cgssaabgv0a12dtpijw": {
+   "hash": "01a6a88081709230a7bf2800dbf20852b115d7a62544cf392684d61f20af28d4",
+   "data": {
+    "action": "move",
+    "created": "2026-10-15T21:56:46.492Z",
+    "date": "2026-10-15",
+    "moveTo": "2026-10-22",
+    "reply": "You join the Thursday ops call from Oct 22. D11 is due Nov 30, so nothing else needed to move.",
+    "status": "actioned",
+    "task": "m1007c",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/ak0jhuqg78xiekn4hr9t": {
+   "hash": "8fffc94b695c5fffe97b16ce63a00ff7c266e8886e1acaee9da61464cf938c79",
+   "data": {
+    "action": "move",
+    "created": "2026-10-05T16:40:48.786Z",
+    "date": "2026-10-05",
+    "moveTo": "2026-10-06",
+    "reply": "The access check is on Oct 6. Nothing else depends on it, so no other tasks moved. D4 and D10 deadlines are unaffected.",
+    "status": "actioned",
+    "task": "2026-10-05#0",
+    "text": "no update on laptop timing."
+   },
+   "base": null
+  },
+  "notes/c1030note3": {
+   "hash": "9ed06f104f1bf681847aedde01b5cbf9e2ffb0e1b9b275ef2c120df92d86a1cb",
+   "data": {
+    "action": "note",
+    "created": "2026-10-30T22:00:00.000Z",
+    "date": "2026-10-30",
+    "reply": "Status Oct 30: five drafts reviewed today (PAL, BJ's, Peloton, Tennessee Carriers, Canva). Each now has a customer version for approval and a sales version. PAL is approved for Sierra marketing; BJ's is held by legal; the rest wait on Dan's 10 fact checks before going to customers. Count: 5 drafted, 1 approved. D8 slips; new tasks on Nov 2.",
+    "status": "actioned",
+    "task": "2026-10-30#3",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/z0zwdq1l98vyyqi128y2": {
+   "hash": "777058753611a87152eca86f52167f46cfca632d990af7fe07e6b121dbbec06c",
+   "data": {
+    "action": "move",
+    "created": "2026-10-20T20:33:06.794Z",
+    "date": "2026-10-20",
+    "moveTo": "2026-10-26",
+    "reply": "Done. The remaining one-on-ones, Jamaica included, sit on Oct 26. D6 was due Oct 23, so it shows overdue until you tick it.",
+    "status": "actioned",
+    "task": "2026-10-12#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/ku3f42z1whiekpnl6uob": {
+   "hash": "6c12c501f9bc78ebe488448e3ccf506736aeea4421ecf836631408da74a17d55",
+   "data": {
+    "action": "move",
+    "created": "2026-10-07T14:39:51.106Z",
+    "date": "2026-10-07",
+    "moveTo": "2026-10-12",
+    "reply": "The Bram, Dan and Heather one-on-ones are on Oct 12 now. Nothing else depends on them, and D6 stays due Oct 23.",
+    "status": "actioned",
+    "task": "2026-10-07#4",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/q4kwdeh9voeewyi866zu": {
+   "hash": "2fc5f040dd4aa5f347b28eb8b3f087b33a0e0d2283b65369bad82734c7b066a8",
+   "data": {
+    "action": "move",
+    "created": "2026-10-12T14:28:05.032Z",
+    "date": "2026-10-12",
+    "moveTo": "2026-10-15",
+    "reply": "Remaining one-on-ones, including Jamaica, now sit on Oct 15. D6 stays due Oct 23, with Oct 22 as the catch-up day.",
+    "status": "actioned",
+    "task": "2026-10-12#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/mbm8c213rz1b0fimq1im": {
+   "hash": "e18c77a5894f2eaf248ff1c2422e0eecbcbdec177cc82f9e1e38fa01256826ec",
+   "data": {
+    "action": "move",
+    "created": "2026-10-19T21:21:05.862Z",
+    "date": "2026-10-20",
+    "moveTo": "2026-10-27",
+    "reply": "Done. Walking Hoffman through the scorecard sits on the Oct 27 call.",
+    "status": "actioned",
+    "task": "2026-10-13#0",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/c1030note4": {
+   "hash": "6a2c7c51352fd283728faeba03fb526dda7ac2b54b84e990c913588b31f0d2fa",
+   "data": {
+    "action": "note",
+    "created": "2026-10-30T22:00:00.000Z",
+    "date": "2026-10-30",
+    "reply": "Your 1:1 with Julie ran Wednesday Oct 28. The end-of-week recap is drafted in Outlook (see the new task today).",
+    "status": "actioned",
+    "task": "2026-10-30#4",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/ncgng7i17e9f62vxemwy": {
+   "hash": "17e1481b6e732fa21b37b03da1f7e1fdaaf7413c88b316f4a8206258ece0124a",
+   "data": {
+    "action": "move",
+    "created": "2026-10-15T21:56:05.780Z",
+    "date": "2026-10-15",
+    "moveTo": "2026-10-16",
+    "reply": "The Salesforce and GA4 reconcile is on today, Oct 16. It still needs Heather's form-fill pull and the GA4 pull from Oct 7, and neither is ticked yet. D4 stays due Oct 30.",
+    "status": "actioned",
+    "task": "2026-10-15#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/c1030note2": {
+   "hash": "0c0188c6e0842e7c59a64f4be8ecd46872862c9d69417bbf67c087bf6b8b2298",
+   "data": {
+    "action": "note",
+    "created": "2026-10-30T22:00:00.000Z",
+    "date": "2026-10-30",
+    "reply": "Status Oct 30: not agreed. The Sierra slide in the North Star deck and Darwal's Oct 27 notes carry the plan (sell together, market together, seller sessions, joint case studies), but nothing in writing has gone to Josh yet. D7 slips.",
+    "status": "actioned",
+    "task": "2026-10-30#2",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/c1030note0": {
+   "hash": "07866eaf5c3bb137784dddd70bca2c81940607dea3a1760991e0bbde0da9ab84",
+   "data": {
+    "action": "note",
+    "created": "2026-10-30T22:00:00.000Z",
+    "date": "2026-10-30",
+    "reply": "Status Oct 30: not signed. The Bob session isn't booked yet; Julie is lining up timing with Char. The deck now carries Julie's Oct 28 feedback (Accelerator leads, healthcare first, owners named). D1 slips past today. Pick a new date with Julie.",
+    "status": "actioned",
+    "task": "2026-10-30#0",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/dm2whq8guiupz8wv6uol": {
+   "hash": "6dad529bbb4d39391d8480b58fb764aa6f3ffd749005d0aafae20a725477b9ee",
+   "data": {
+    "action": "move",
+    "created": "2026-10-16T14:36:32.738Z",
+    "date": "2026-10-16",
+    "moveTo": "2026-10-19",
+    "reply": "Superseded. This task moved again and now sits on Oct 26.",
+    "status": "actioned",
+    "task": "2026-10-12#1",
+    "text": ""
+   },
+   "base": null
+  },
+  "notes/v0qnuw4ofi4l1djb7emt": {
+   "hash": "c955333a2ece7dd364fb1c5aab824f4771d86a9c1fa74c3347a2d3326277862b",
+   "data": {
+    "action": "move",
+    "created": "2026-10-01T17:06:34.227Z",
+    "date": "2026-10-05",
+    "moveTo": "2026-10-02",
+    "reply": "First pass of the three slides is in IBEX/Run-Sheet-Work as 2026-10-01_Qualified-Lead_Analysts_Proof-Stories_DRAFT (PowerPoint and PDF), in the ibex format. Blanks on the proof slide are owners we don't know yet. With work starting Oct 5, this task now sits on Oct 5 for you to review, ask Heather, and send to Julie.",
+    "status": "actioned",
+    "task": "2026-10-05#2",
+    "text": "Ask Heather to create the definition to propose to Julie what we believe counts as a qualified lead. Summarize this in one clean page or slide. Also make an assumption about which analysts we think matter most for 2027 based on our messaging and positioning and make a recommendation Create a list of the client proof stories filling in who we think is the owner for each of them and leaving blanks where we are unsure I think the ideal format for this would be three slides, one for each of these on one on what counts the qualified lead, one on analyst evaluations for 2027 that we want to prioritize and one on proof stories that we want to focus on with the owners filled in or blanks identified. Claude should take a first pass using the ibex slide format."
+   },
+   "base": null
+  },
+  "notes/skb5p2y5vuap76are3fa": {
+   "hash": "e3088f55ce66dbbe5ccab217768628f417654e3d2a5a18a346cc48055d11bcc2",
+   "data": {
+    "action": "split",
+    "created": "2026-10-08T19:11:16.416Z",
+    "date": "2026-10-08",
+    "moveTo": "2026-10-09",
+    "newTask": "amuzwwudc",
+    "reply": "Your Oct 8 analyst task is ticked and the rest sits on Oct 9. I reworded the Oct 9 task to build the inventory from Dan's Tech Analyst List and Analyst Calendar, both now in the IBEX folder, since getting his files is done. D2 stays due Oct 23.",
+    "rest": "Start the analyst inventory for Gartner, Everest, Forrester, Frost & Sullivan, HFS Research, ISG, NelsonHall and Avasant: contact, last interaction, report cycles, submission deadlines. Get Dan's files.",
+    "status": "actioned",
+    "task": "amuy7qw8h",
+    "text": "uploaded the lists and calendar from Dan"
+   },
+   "base": null
+  },
+  "voices/hitrust": {
+   "hash": "7da25d319f3e61dcd5bcd6dac703de2e73a9c52dab7cd39ea16739b95260d0c9",
+   "data": {
+    "fixFirst": [
+     "Keep the AI governance paragraph; it is the only claim a competitor cannot copy tomorrow.",
+     "Drop \"Industry-Leading\" from the headline.",
+     "Give Ismail a line with a fact in it, or cut his quote.",
+     "Tie it to the healthcare business with one sentence.",
+     "Confirm \"every conversation is graded and kept as evidence\" is true before it ships."
+    ],
+    "ranAt": "2026-10-19T16:00:00Z",
+    "scores": {
+     "alice": [
+      4,
+      "Would take the meeting",
+      0,
+      "AI governance and accountability is my first question for any vendor, and this is the only release that answers it. Named owner, person who can stop it, evidence kept. I'd ask to see the governance register in the first meeting.",
+      [
+       "Offer the governance model as a follow-up asset."
+      ]
+     ],
+     "bob": [
+      3,
+      "Ratify with changes",
+      0,
+      "The governance paragraph is the best thing in here. A named owner, a stated purpose and a person who can stop every agent. A competitor can't rewrite a page tomorrow and claim that. The rest is a certification announcement. 'Industry-leading' in the headline is an adjective doing a number's job, and the SecurityScorecard line stays exactly where it is, in the body, not promoted.",
+      [
+       "Drop 'Industry-Leading' from the headline.",
+       "Verify 'every conversation is graded and kept as evidence' is literally true.",
+       "Keep SecurityScorecard in the body only."
+      ]
+     ],
+     "jason": [
+      3,
+      "Watching",
+      0,
+      "Good controls story. For a fintech it's adjacent. I'd want PCI and BSA called out.",
+      [
+       "No change."
+      ]
+     ],
+     "jeremy": [
+      2,
+      "Not for me",
+      1,
+      "Necessary, I'm sure. It doesn't tell me anything about how your agents handle a member who's scared about their weight-loss medication.",
+      [
+       "No change."
+      ]
+     ],
+     "jsimpson": [
+      3,
+      "Watching",
+      0,
+      "Good to know. I'd still ask how security incidents get reported to me and how fast.",
+      [
+       "Optional: name the incident reporting standard."
+      ]
+     ],
+     "julie": [
+      3,
+      "Approve with changes",
+      0,
+      "Compliance news is table stakes. Fine, we have to say it. So-what? It opens healthcare doors, and we have a healthcare business north of a hundred million. Say that, or this is a plaque on the wall.",
+      [
+       "Add one sentence tying it to the healthcare business."
+      ]
+     ],
+     "krys": [
+      4,
+      "Interested",
+      0,
+      "Data security is make-or-break for us, and a 100 rating from SecurityScorecard is a fact I can check. Certification across every site matters more to me than any single site.",
+      [
+       "No change."
+      ]
+     ],
+     "marcus": [
+      4,
+      "Would take the meeting",
+      0,
+      "Graded conversations kept as evidence is an audit trail, and that's what my examiners ask for. HITRUST is health, but the control framework travels. Add PCI and SOC 2 detail and this is useful to me.",
+      [
+       "Mention PCI and SOC 2 earlier, not only in the closing list."
+      ]
+     ],
+     "marius": [
+      4,
+      "Interested",
+      0,
+      "HITRUST is the standard my world actually uses, so this matters. I still want the pharmacy-level protocols, not just the certificate. Ismail's quote says nothing.",
+      [
+       "Rewrite or cut the CISO quote.",
+       "Add one healthcare line."
+      ]
+     ],
+     "natalie": [
+      3,
+      "Benchmark: table stakes",
+      0,
+      "Every serious BPO has a certification release. The governance paragraph is the part I'd steal.",
+      [
+       "Keep the governance paragraph high."
+      ]
+     ]
+    },
+    "source": "seed"
+   },
+   "base": null
+  },
+  "voices/bjs": {
+   "hash": "1edbc958f7bbc70b3c3a80a9bf3dda3fdd998a3ac71e8a81a96203d0adb34102",
+   "data": {
+    "fixFirst": [
+     "Essential only, since BJ's and Sierra reviewed it: replace \"dramatic increase\" with the filed floor, resolution above 40% and CSAT above 4.7.",
+     "Leave everything else alone unless it is factually wrong.",
+     "Next release, not this one: drop \"unmatched,\" \"world's best\" and \"industry-best\" from the ibex quotes."
+    ],
+    "ranAt": "2026-10-19T16:00:00Z",
+    "scores": {
+     "alice": [
+      3,
+      "Maybe",
+      0,
+      "Six weeks is the most interesting fact here, and you've given me nothing else to underwrite. What did it cost BJ's to stand up? What changed for their human agents? 'Growing ROI' is not a number a CFO accepts.",
+      [
+       "Add the resolution figure; ROI language without a number hurts."
+      ]
+     ],
+     "bob": [
+      3,
+      "Ratify with changes",
+      0,
+      "The story is right. The AND is here: resolve, not contain, and the hand-off from AI agent to human. Six weeks. But I filed BJ's at resolution above 40% and CSAT above 4.7 on September 10. It's on the public record. Why does my own release say 'dramatic increase'? Put the floor in. Everything else, leave it. They've signed off.",
+      [
+       "Replace 'dramatic increase' with resolution above 40% and CSAT above 4.7.",
+       "Do not reopen language BJ's and Sierra already approved."
+      ]
+     ],
+     "jason": [
+      2,
+      "Pass for now",
+      1,
+      "Renewal and retention offers are close to what we do on card retention, but this is retail. I'd need to see it in a regulated product.",
+      [
+       "No change."
+      ]
+     ],
+     "jeremy": [
+      3,
+      "Maybe",
+      0,
+      "Membership renewal is a commit-or-churn moment, exactly like a subscription. Same-day retention offers is the first line in any of these that speaks my language. I want the retention outcome, not just resolution.",
+      [
+       "If BJ's will allow it, add a retention result later."
+      ]
+     ],
+     "jsimpson": [
+      3,
+      "Watching",
+      0,
+      "AI agent to human agent is the part I'd want to see live. Who owns the hand-off, how fast does it happen, and what does the client see week to week? This release sells the launch, not the operation.",
+      [
+       "Nothing for this release; save it for the case study."
+      ]
+     ],
+     "julie": [
+      3,
+      "Approve with changes",
+      0,
+      "Great logo, great story, and we buried the number. That's the whole problem we're trying to fix. The so-what is that a member gets their renewal handled at two in the morning and BJ's keeps the revenue. The same-day retention offer is the best line in here and it's in the middle of a paragraph.",
+      [
+       "Put the filed numbers in.",
+       "Next time, lead with the retention offer."
+      ]
+     ],
+     "krys": [
+      3,
+      "Watching",
+      0,
+      "Resolve, not deflect, is the right promise to make to a member. BJ's is a big operation, but not my scale. What I'd want to know is how the quality bar holds when volume spikes.",
+      [
+       "Volume and peak handling would help, if cleared."
+      ]
+     ],
+     "marcus": [
+      2,
+      "Pass for now",
+      1,
+      "Retail. Nice logo. Not my risk environment. Nothing here tells me how this would hold up with Reg E disputes or an examiner reading the transcript.",
+      [
+       "No change to this release. Fintech proof needs its own story."
+      ]
+     ],
+     "marius": [
+      2,
+      "Pass for now",
+      1,
+      "Retail membership calls are not pharmacy calls. Glad it works. It doesn't tell me anything about my members.",
+      [
+       "No change."
+      ]
+     ],
+     "natalie": [
+      3,
+      "Benchmark: generic in places",
+      0,
+      "Six weeks is real and I respect it. Then I hit 'seamless' twice, 'unmatched,' 'world's best' and 'industry-best' and it reads like every BPO release. Show me day one to day ninety.",
+      [
+       "Fix the ibex quotes in the next release, not this one."
+      ]
+     ]
+    },
+    "source": "seed"
+   },
+   "base": null
+  },
+  "voices/frost": {
+   "hash": "b5bc1d64ce8847464abdcba62bf67a7a0472798367a56b60c98d1b3871614e47",
+   "data": {
+    "fixFirst": [
+     "Swap \"industry-best employee satisfaction\" for eNPS 82 at 95% participation.",
+     "Add a tenure or attrition number for the region.",
+     "Keep distribution regional: recruiting, local press, nearshore buyers."
+    ],
+    "ranAt": "2026-10-19T16:00:00Z",
+    "scores": {
+     "alice": [
+      2,
+      "Not for me",
+      0,
+      "Awards don't move me. Retention and tenure numbers might.",
+      [
+       "Add a tenure or attrition figure."
+      ]
+     ],
+     "bob": [
+      2,
+      "Not yet",
+      0,
+      "A regional award. Fine, we take it. But 'industry-best employee satisfaction' is exactly the claim I tell my people never to make. I filed eNPS at 82 with 95% participation on September 10. Use both numbers. The participation rate is what makes the score hard. And my quote is right: people who stay get good at the work.",
+      [
+       "Replace the superlative with eNPS 82 at 95% participation.",
+       "Keep the analyst quote; it does the leadership-isn't-size work for us."
+      ]
+     ],
+     "jason": [
+      2,
+      "Not for me",
+      1,
+      "Not my decision criteria.",
+      [
+       "No change."
+      ]
+     ],
+     "jeremy": [
+      3,
+      "Maybe",
+      0,
+      "'People who stay get good at the work' is the one line here I believe. Agents who stay are agents who can handle emotional calls. Show me the tenure.",
+      [
+       "Add tenure for the region."
+      ]
+     ],
+     "jsimpson": [
+      3,
+      "Watching",
+      0,
+      "Nearshore capacity in Central America and the Caribbean is relevant to me, and attrition is what kills nearshore programs. Give me the attrition number and this becomes useful.",
+      [
+       "Add regional attrition or tenure."
+      ]
+     ],
+     "julie": [
+      2,
+      "Approve, small push",
+      0,
+      "Honestly? Frost isn't the analyst my buyers read. It's great for the region, for recruiting and for the teams in Nicaragua, Honduras and Jamaica. Don't spend marketing capital pushing it past that. And put the eNPS number in, because we earned it.",
+      [
+       "Add the eNPS number.",
+       "Keep promotion regional."
+      ]
+     ],
+     "krys": [
+      2,
+      "Not for me",
+      1,
+      "Regional recognition. Doesn't change how I'd evaluate a vendor.",
+      [
+       "No change."
+      ]
+     ],
+     "marcus": [
+      1,
+      "Pass",
+      1,
+      "Not relevant to me.",
+      [
+       "No change."
+      ]
+     ],
+     "marius": [
+      2,
+      "Not for me",
+      0,
+      "Attrition is expensive in my world, so the culture point lands a little. Without a number it's a press release.",
+      [
+       "Add a retention figure."
+      ]
+     ],
+     "natalie": [
+      3,
+      "Benchmark: needs the number",
+      0,
+      "Cultural proof is exactly what I demand from partners. Then you write 'industry-best employee satisfaction' with no score. Put the engagement number in and I'd take it seriously.",
+      [
+       "Add eNPS and participation."
+      ]
+     ]
+    },
+    "source": "seed"
+   },
+   "base": null
+  },
+  "voices/staffaug": {
+   "hash": "16d74ab783672d14e9dbc895e99907d7ea4174614ddeee80c74ae8a6c88ee823",
+   "data": {
+    "fixFirst": [
+     "Move the AI engineering proof (production in four weeks, 40,000 conversations a week) to the top.",
+     "Lead with speed and capability; cost goes last.",
+     "Replace or cut the CTCPA quote.",
+     "Run it through accounting and finance trade channels, not the CX newsroom.",
+     "Confirm the certifications cover Augment before listing them."
+    ],
+    "ranAt": "2026-10-19T16:00:00Z",
+    "scores": {
+     "alice": [
+      2,
+      "Not for me",
+      0,
+      "Leading with 70% cost savings tells me who you think your buyer is. Not me.",
+      [
+       "Lead with capability."
+      ]
+     ],
+     "bob": [
+      2,
+      "Not yet",
+      0,
+      "This reads like BPO 1.0. 'Up to 70% lower cost' is mess for less, the story we left behind. There's no AND in here. The one piece of 3.0 proof, an engineering team taking conversational AI to production in four weeks, is buried in a bullet list near the bottom. Move it to the top or this undercuts everything else we're saying.",
+      [
+       "Lead with the AI engineering proof.",
+       "Cost goes last.",
+       "Confirm certification scope before listing HITRUST and ISO."
+      ]
+     ],
+     "jason": [
+      3,
+      "Maybe",
+      0,
+      "I'm building operations infrastructure for an IPO-stage fintech, and finance, compliance and engineering talent in two weeks is a real need. The AI engineering bullet is the most interesting thing here. I'd want to know how you handle access to our systems.",
+      [
+       "Lead with AI engineering.",
+       "Address system access and security for embedded staff."
+      ]
+     ],
+     "jeremy": [
+      1,
+      "Pass",
+      1,
+      "Not my world.",
+      [
+       "No change."
+      ]
+     ],
+     "jsimpson": [
+      2,
+      "Not for me",
+      1,
+      "Different buying center from mine.",
+      [
+       "No change."
+      ]
+     ],
+     "julie": [
+      2,
+      "On-mission cut",
+      0,
+      "Who is this for? It's not our CX buyer. If it goes out on the same newsroom and LinkedIn channel during the relaunch, it pulls focus. Put it in accounting and finance trade press where it can win on its own. And that CTCPA quote is lukewarm. 'May be one option.' Really?",
+      [
+       "Separate channel.",
+       "Get a stronger partner quote or cut it."
+      ]
+     ],
+     "krys": [
+      1,
+      "Pass",
+      1,
+      "Not relevant to CX at our scale.",
+      [
+       "No change."
+      ]
+     ],
+     "marcus": [
+      2,
+      "Not for me",
+      0,
+      "Back-office accounting talent isn't my contact center, though 99% staff retention at a multinational financial institution caught my eye.",
+      [
+       "Move the financial services bullet higher."
+      ]
+     ],
+     "marius": [
+      1,
+      "Pass",
+      1,
+      "Not relevant.",
+      [
+       "No change."
+      ]
+     ],
+     "natalie": [
+      2,
+      "Benchmark: generic",
+      0,
+      "Staffing release. Every BPO has one.",
+      [
+       "No change."
+      ]
+     ]
+    },
+    "source": "seed"
+   },
+   "base": null
+  },
+  "voices/decode": {
+   "hash": "3611b57c76d5a8abccd52dac5e6f2b8b637c05c7310a715a7984fc5253d5da51",
+   "data": {
+    "fixFirst": [
+     "Cut \"unmatched,\" \"industry-best\" and \"unprecedented\" from Bob's quote.",
+     "Hedge or source the \"less than 10 percent\" sampling stat.",
+     "Pick seconds or minutes; the release says both.",
+     "Add one client result, even unnamed: what Decode found and what changed.",
+     "Name the controls for regulated buyers: PII and PHI redaction, audit trail."
+    ],
+    "ranAt": "2026-10-19T16:00:00Z",
+    "scores": {
+     "alice": [
+      4,
+      "Would take the meeting",
+      0,
+      "Redaction before analysis and no CCaaS integration: that's governance I can take to a board. It sits in your P&L, so the cost question answers itself. What I still don't have is the before and after. Show me a client whose root cause analysis went from two weeks to same-day and what they changed because of it.",
+      [
+       "Add a before-and-after example with a timeline."
+      ]
+     ],
+     "bob": [
+      4,
+      "Ratify with changes",
+      0,
+      "This is the business insights story, finally with a mechanism. Every interaction, not a sample, and it sits in our P&L. That answers the only question a buyer really has: what can you tell me about my customers that I don't already know? Now cut the noise. 'Unmatched.' 'Industry-best.' 'Unprecedented.' Nobody remembers an adjective. And the under-10% number: in public I hedge borrowed statistics, I don't quote them bare.",
+      [
+       "Cut the three adjectives from my quote.",
+       "Hedge or source the under-10% stat.",
+       "Trap test: speech analytics vendors claim 100% QA too. The difference is no integration, 250 analysts and no invoice. Lead with that."
+      ]
+     ],
+     "jason": [
+      4,
+      "Would take the meeting",
+      0,
+      "Social engineering and security validation in-flight is a BSA and fraud control, not just QA. Across five product lines that's worth a call. I want to see how a flag on a credit card call routes differently from one on a personal loan.",
+      [
+       "Show routing by product line."
+      ]
+     ],
+     "jeremy": [
+      4,
+      "Interested",
+      0,
+      "Sentiment flagged while the call is still live is my world. In a GLP-1 coaching conversation, the moment someone shuts down is the moment I lose them. My question: does this help the agent be more human in that moment, or does it just flag them for a supervisor afterward?",
+      [
+       "Show the in-call assist, not only the QA report."
+      ]
+     ],
+     "jsimpson": [
+      4,
+      "Interested",
+      0,
+      "Real-time visibility into the floor is the thing I always ask for and never get. The question is whether I get the view or only your analysts do. If my team can query Decode the way your 250 analysts can, that changes how I manage the vendor.",
+      [
+       "Say whether clients get direct access."
+      ]
+     ],
+     "julie": [
+      4,
+      "Approve with changes",
+      0,
+      "Okay, this one I like. This is the stuff behind the curtain finally on stage. The so-what is real: a client stops paying for a QA sample and gets every call. But I want one result. One. What did Decode find for a client in week one that nobody saw before? Give me that and this is a story, not a launch.",
+      [
+       "Add one client finding, unnamed if it has to be.",
+       "Make 'never on the invoice' louder; nobody else can say it."
+      ]
+     ],
+     "krys": [
+      3,
+      "Watching",
+      0,
+      "Every interaction analyzed is exactly the scale I care about. My first question is data: where do the transcripts live, who at ibex can query them, and can I keep my customers' data out of anyone's model training? 'PII securely redacted' is a start, not an answer.",
+      [
+       "Add data residency and model-training controls."
+      ]
+     ],
+     "marcus": [
+      4,
+      "Would take the meeting",
+      0,
+      "Fraud, social engineering and security validation caught mid-call is the first thing in any of these releases that speaks to my regulator. PII redacted at the desktop, good. I need the audit trail: who sees what, how long it's kept, and how a flag becomes an action I can show an examiner.",
+      [
+       "Name the audit trail and retention controls."
+      ]
+     ],
+     "marius": [
+      3,
+      "Watching",
+      0,
+      "PII is not PHI. A member calling about a medication denial is sharing health information, and this release never says the word HIPAA. The capability is right for pharmacy QA. The language tells me it wasn't written with my world in mind.",
+      [
+       "Add PHI handling and HIPAA in one line."
+      ]
+     ],
+     "natalie": [
+      4,
+      "Benchmark: credible",
+      0,
+      "Real-time and historical data together is literally number three in how I run operations. This is the release I'd forward to my own product team at iQor with the subject line 'we need this.' The weak spot is the quote. 'Thrilled' and 'unmatched' make it sound like everyone else.",
+      [
+       "Rewrite the CEO quote in plain language."
+      ]
+     ]
+    },
+    "source": "seed"
+   },
+   "base": null
+  },
+  "runsheet/plan": {
+   "hash": "2be3e7f9407fca406e2fb705a7b92daab8c4f5382128ecd3732049abe7b9c77b",
+   "data": {
+    "added": {
+     "amuy7p86x": {
+      "d": [
+       "D19",
+       "D4"
+      ],
+      "date": "2026-10-07",
+      "from": "2026-10-07",
+      "text": "Pull ibex.co traffic and form events from GA4 for the same 24 months."
+     },
+     "amuy7qw8h": {
+      "d": [
+       "D2"
+      ],
+      "date": "2026-10-08",
+      "from": "2026-10-07",
+      "text": "Start the analyst inventory for Gartner, Everest, Forrester, Frost & Sullivan, HFS Research, ISG, NelsonHall and Avasant: contact, last interaction, report cycles, submission deadlines. Get Dan's files."
+     },
+     "amuzwwudc": {
+      "d": [
+       "D2"
+      ],
+      "date": "2026-10-09",
+      "from": "2026-10-08",
+      "text": "Start the analyst inventory for Gartner, Everest, Forrester, Frost & Sullivan, HFS Research, ISG, NelsonHall and Avasant: contact, last interaction, report cycles, submission deadlines. Get Dan's files."
+     },
+     "amva2u354": {
+      "d": [
+       "D6"
+      ],
+      "date": "2026-10-16",
+      "from": "2026-10-15",
+      "text": "One-on-ones: Bram, Dan, Heather."
+     },
+     "c0105a": {
+      "d": [
+       "D9",
+       "D33",
+       "D26"
+      ],
+      "date": "2027-01-05",
+      "from": "2027-01-05",
+      "text": "Public launch of the new ibex.co, with PR. Start driving hard volume after the holidays. (Soft launch was Dec 15.)"
+     },
+     "c1030a": {
+      "d": [
+       "D8"
+      ],
+      "date": "2026-10-30",
+      "from": "2026-10-30",
+      "text": "Send Dan Schickerowsky the 10 case study fact checks (PAL resolution, BJ's days, intents and resolution, Peloton, Tennessee Carriers, draft owner). The Outlook draft is gone: confirm it went, or ask Claude to recreate it."
+     },
+     "c1030b": {
+      "d": [
+       "D1"
+      ],
+      "date": "2026-10-30",
+      "from": "2026-10-30",
+      "text": "Send Julie the end-of-week recap. The draft is in the Pivot Outlook; send it from your ibex account."
+     },
+     "c1102a": {
+      "d": [
+       "D8",
+       "D10"
+      ],
+      "date": "2026-11-02",
+      "from": "2026-11-02",
+      "text": "Swap Dan's answers into the five case study redlines and customer versions. Send the PAL and Tennessee Carriers customer versions for approval; ask Julie to open the door with their executives."
+     },
+     "c1102b": {
+      "d": [
+       "D24"
+      ],
+      "date": "2026-11-02",
+      "from": "2026-11-02",
+      "text": "Load the North Star brief v1.1 into Gemini and set up the Antigravity project from its section 8."
+     },
+     "c1102c": {
+      "d": [],
+      "date": "2026-11-02",
+      "from": "2026-11-02",
+      "text": "Confirm the Barron's LinkedIn posts ran on the v4 copy (BJ's unnamed). Trash the v3 redline in Drive."
+     },
+     "c1103a": {
+      "d": [
+       "D1",
+       "D11"
+      ],
+      "date": "2026-11-03",
+      "from": "2026-11-03",
+      "text": "Run the full North Star deck with Shannon."
+     },
+     "c1104a": {
+      "d": [
+       "D1"
+      ],
+      "date": "2026-11-04",
+      "from": "2026-11-04",
+      "text": "Wave iX decision: Julie's small group (Darwal, Shannon) decides drop or bridge with \"powered by ibex Wave iX\"."
+     },
+     "c1104b": {
+      "d": [
+       "D18"
+      ],
+      "date": "2026-11-04",
+      "from": "2026-11-04",
+      "text": "Start the ICP refresh from Hollowell's win/loss analysis."
+     },
+     "c1105a": {
+      "d": [],
+      "date": "2026-11-05",
+      "from": "2026-11-05",
+      "text": "CCW Las Vegas room (Summit 212): theme and build-out options with Kaye. Get Julie's approvals on Britt's retainer and the CC Women slot."
+     },
+     "h1021a": {
+      "d": [
+       "D19"
+      ],
+      "date": "2026-10-21",
+      "from": "2026-10-21",
+      "text": "Reply to Heather on the Contact Us analysis: the campaign-only count is 15, the SpaceX/Starlink opp is stale, six forms skip Marketo, and how Alo should count."
+     },
+     "h1022a": {
+      "d": [
+       "D19"
+      ],
+      "date": "2026-10-22",
+      "from": "2026-10-22",
+      "text": "Sync with Heather on the raw form-fill pull she asked about. Agree what 'before cleanup' should include."
+     },
+     "h1023a": {
+      "d": [
+       "D26"
+      ],
+      "date": "2026-10-23",
+      "from": "2026-10-23",
+      "text": "Back Heather and Khurram's fix: a Stage Zero opportunity for every Contact Us fill, Khurram copied on routing. Get Bruce and Mike to agree."
+     },
+     "h1026a": {
+      "d": [
+       "D9",
+       "D26"
+      ],
+      "date": "2026-10-26",
+      "from": "2026-10-26",
+      "text": "Ask Bram and the Brazil web team to route the six non-Marketo forms into Marketo before launch: Quick Connect, Build Your CX Team, Utility Starter Kit, both Speaker Series RSVPs, AI Council RSVP."
+     },
+     "h1026b": {
+      "d": [
+       "D19",
+       "D9"
+      ],
+      "date": "2026-10-26",
+      "from": "2026-10-26",
+      "text": "With Heather: confirm each Marketo thank-you page, and add GA4 form_submit events for Wave iX Contact Us and the gated eBook."
+     },
+     "h1027a": {
+      "d": [
+       "D26"
+      ],
+      "date": "2026-10-27",
+      "from": "2026-10-27",
+      "text": "Agree the marketing-sourced rule with Heather and sales ops: campaign membership plus Lead Source, one primary source per deal. Decide how Alo counts."
+     },
+     "h1028a": {
+      "d": [
+       "D26"
+      ],
+      "date": "2026-10-28",
+      "from": "2026-10-28",
+      "text": "Ask sales to close out or re-date the SpaceX/Starlink opportunity (MSA stage, close date Nov 2024)."
+     },
+     "h1103a": {
+      "d": [
+       "D9"
+      ],
+      "date": "2026-11-03",
+      "from": "2026-11-03",
+      "text": "Retire the CS Week 2021 iPad giveaway form. Give FleCX its own Marketo form; it uses the Witness form today."
+     },
+     "j1105a": {
+      "d": [
+       "D18"
+      ],
+      "date": "2026-11-05",
+      "from": "2026-11-05",
+      "text": "Calibrate your plan against Julie\u2019s 10 objectives on the Goals tab. Every task answers one question: how does it move Marketing ROI?"
+     },
+     "j1106a": {
+      "d": [
+       "D1"
+      ],
+      "date": "2026-11-06",
+      "from": "2026-11-06",
+      "text": "Prep for Bob on Monday: the North Star v5 deck plus Julie\u2019s plan on one page, with Marketing ROI as the measure."
+     },
+     "j1106b": {
+      "d": [
+       "D29"
+      ],
+      "date": "2026-11-06",
+      "from": "2026-11-06",
+      "text": "Draft the marketing purpose statement for the organization (draft is on the Goals tab). Send to Julie."
+     },
+     "j1110a": {
+      "d": [
+       "D30"
+      ],
+      "date": "2026-11-10",
+      "from": "2026-11-10",
+      "text": "Pull the in-flight NEMT campaign: spend, leads, pipeline and the assets. Score it against Julie\u2019s test: fewer words, one clear call to action."
+     },
+     "j1111a": {
+      "d": [
+       "D31",
+       "D23"
+      ],
+      "date": "2026-11-11",
+      "from": "2026-11-11",
+      "text": "Team walk-through with Julie: North America, Manila (Moses), Pakistan, Jamaica. For each role, what it produces toward Marketing ROI."
+     },
+     "j1112a": {
+      "d": [
+       "D31",
+       "D2"
+      ],
+      "date": "2026-11-12",
+      "from": "2026-11-12",
+      "text": "Plan new owners for PR, the Hoffman relationship and analysts ahead of Dan Burris\u2019s retirement."
+     },
+     "j1113a": {
+      "d": [
+       "D29"
+      ],
+      "date": "2026-11-13",
+      "from": "2026-11-13",
+      "text": "Agree the purpose statement with Julie."
+     },
+     "j1116a": {
+      "d": [
+       "D32"
+      ],
+      "date": "2026-11-16",
+      "from": "2026-11-16",
+      "text": "Pull wins and losses by vertical from Salesforce and Hollowell\u2019s win/loss analysis."
+     },
+     "j1117a": {
+      "d": [
+       "D7",
+       "D21"
+      ],
+      "date": "2026-11-17",
+      "from": "2026-11-17",
+      "text": "Sierra joint calendar draft with Darwal: joint PR, speaking slots and events for the first half of 2027."
+     },
+     "j1118a": {
+      "d": [
+       "D34"
+      ],
+      "date": "2026-11-18",
+      "from": "2026-11-18",
+      "text": "Thought leadership: three contrarian angles for Julie\u2019s voice and a podcast pilot format. A fresh angle for CCW Women in July."
+     },
+     "j1119a": {
+      "d": [
+       "D35"
+      ],
+      "date": "2026-11-19",
+      "from": "2026-11-19",
+      "text": "Review the 2H shows budget with Kaye: committed spend, the unused CX dinners, and what Julie moves to the sales recruiter."
+     },
+     "j1120a": {
+      "d": [
+       "D30"
+      ],
+      "date": "2026-11-20",
+      "from": "2026-11-20",
+      "text": "Send Julie the campaign reset: the NEMT findings and one standard for every campaign (one message, one call to action, tracked to pipeline)."
+     },
+     "j1124a": {
+      "d": [
+       "D33"
+      ],
+      "date": "2026-11-24",
+      "from": "2026-11-24",
+      "text": "Prepare the Hoffman December review: scorecard results to date, cost, coverage won, and what a new plan must commit to."
+     },
+     "j1125a": {
+      "d": [
+       "D31"
+      ],
+      "date": "2026-11-25",
+      "from": "2026-11-25",
+      "text": "Send Julie the team review by region and the PR and analyst ownership plan."
+     },
+     "j1201a": {
+      "d": [
+       "D36"
+      ],
+      "date": "2026-12-01",
+      "from": "2026-12-01",
+      "text": "Egypt and Honduras: list what each site needs (recruiting brand, client-facing proof, site pages). Start with Egypt."
+     },
+     "j1202a": {
+      "d": [
+       "D35"
+      ],
+      "date": "2026-12-02",
+      "from": "2026-12-02",
+      "text": "Vegas private room: final concept, budget and invite list for Julie\u2019s sign-off."
+     },
+     "j1203a": {
+      "d": [
+       "D32"
+      ],
+      "date": "2026-12-03",
+      "from": "2026-12-03",
+      "text": "ICP by vertical: where we win, where we lose, where to aim spend."
+     },
+     "j1204a": {
+      "d": [
+       "D32"
+      ],
+      "date": "2026-12-04",
+      "from": "2026-12-04",
+      "text": "Send Julie the ICP by vertical."
+     },
+     "j1208a": {
+      "d": [
+       "D33"
+      ],
+      "date": "2026-12-08",
+      "from": "2026-12-08",
+      "text": "Hoffman December review with Julie: results against the scorecard, then a new plan or a search."
+     },
+     "j1209a": {
+      "d": [
+       "D34"
+      ],
+      "date": "2026-12-09",
+      "from": "2026-12-09",
+      "text": "Send Julie the thought leadership plan with the podcast pilot."
+     },
+     "j1211a": {
+      "d": [
+       "D33",
+       "D34",
+       "D35"
+      ],
+      "date": "2026-12-11",
+      "from": "2026-12-11",
+      "text": "Confirm: Hoffman plan decided, thought leadership plan agreed, shows budget and Vegas room final."
+     },
+     "j1216a": {
+      "d": [
+       "D36"
+      ],
+      "date": "2026-12-16",
+      "from": "2026-12-16",
+      "text": "Draft the Egypt and Honduras marketing support plan."
+     },
+     "j1218a": {
+      "d": [
+       "D36"
+      ],
+      "date": "2026-12-18",
+      "from": "2026-12-18",
+      "text": "Send Julie the Egypt and Honduras support plan."
+     },
+     "m1007a": {
+      "d": [
+       "D1",
+       "D9"
+      ],
+      "date": "2026-10-08",
+      "from": "2026-10-08",
+      "text": "4:00 PM messaging session in Nashville with Bram, Shannon and the sales leads: homepage hero themes and the speed message. Agree the story before any design starts. Check \"200 million conversations a year\" against Darwal's \"roughly 170 million interactions\" before it goes anywhere."
+     },
+     "m1007b": {
+      "d": [],
+      "date": "2026-10-12",
+      "from": "2026-10-12",
+      "text": "Package the AI quotes and evidence you sent for the AI Council members (Bob's ask). Ask Julie whether it should also become a press release."
+     },
+     "m1007c": {
+      "d": [
+       "D11"
+      ],
+      "date": "2026-10-15",
+      "from": "2026-10-15",
+      "text": "Join the Thursday ops call from this week. Note the client signals that client services leads should be catching."
+     },
+     "m1007d": {
+      "d": [
+       "D7",
+       "D21"
+      ],
+      "date": "2026-10-19",
+      "from": "2026-10-19",
+      "text": "Build the joint Sierra press release list with Darwal: one a month from November. Candidates: BJ's, PAL, the Fidium win, MotiveCare, ibex Digital. Name the owner and the client approval for each."
+     },
+     "m1007e": {
+      "d": [
+       "D11"
+      ],
+      "date": "2026-11-09",
+      "from": "2026-11-09",
+      "text": "Draft a one-page question guide for client services and sellers: the questions that surface AI opportunities in client conversations. Test it with two client services leads."
+     },
+     "m1007f": {
+      "d": [
+       "D21"
+      ],
+      "date": "2026-11-18",
+      "from": "2026-11-18",
+      "text": "Publish the November joint Sierra press release."
+     },
+     "m1007g": {
+      "d": [
+       "D11"
+      ],
+      "date": "2026-11-30",
+      "from": "2026-11-30",
+      "text": "Roll out the question guide with the pitch training to client services and both sales teams."
+     }
+    },
+    "dropped": {},
+    "due": {
+     "D19": "2026-12-23",
+     "D21": "2026-12-23",
+     "D22": "2026-12-23",
+     "D23": "2026-12-23",
+     "D24": "2026-12-23",
+     "D25": "2026-12-23",
+     "D28": "2026-12-23"
+    },
+    "edited": {
+     "2026-10-06#3": "Working session with Bram: homepage status, Julie's feedback from Orlando, and a first sitemap draft. Ask Bram to hold a sitemap slot for leader profile pages (photo on About Us opens a bio, 90-second video and transcript, room for podcast later). Held slot only until Julie decides.",
+     "2026-10-08#1": "CCW dinner at Bar Lines (Omni lobby level), standing happy hour. Bring people in from the conference. Afterward, write down every conversation worth a follow-up.",
+     "2026-10-13#1": "Prepare the Bob walkthrough: the elevator pitch, a one-page Bedrock summary, and what you need from him. Build it around \"the and\" (ibex plus Sierra, why PAL chose us) and speed through iteration. Keep the financial-strength slide to a one-line credential.",
+     "2026-10-14#0": "Lock the sitemap and build order with Bram and the Brazil team. Propose November 20 as launch date. Check the held leader profile slot: keep it if Julie said yes, pull it if she said no.",
+     "2026-10-15#1": "Reconcile Heather's Salesforce history (Oct 20 pull) with GA4: match thank-you page views by referring page, and allow for the six forms that skip Marketo.",
+     "2026-10-21#0": "Meet Josh Roberts at Sierra with Darwal's agreement. Agenda: one joint press release a month from November, a Sierra quote on the BJ's release, 2027 events, co-marketing funds.",
+     "2026-10-28#0": "Write the Sierra co-marketing plan: a joint press release calendar for November to March, plus any other joint activities. Send to Josh and Darwal.",
+     "2026-10-30#0": "Monday meeting with Bob: present the marketing messaging (North Star v5) and the plan. Ask for his sign-off.",
+     "2026-11-02#1": "Build the launch countdown to the Dec 15 soft launch with Bram and the Brazil team.",
+     "2026-11-03#0": "Test every site form into Salesforce with source fields, using Heather's 24-form audit. Set up pipeline tracking for marketing-sourced and influenced deals.",
+     "2026-11-12#1": "Website content freeze for the Dec 15 soft launch. Final review with Julie.",
+     "2026-11-20#0": "Soft launch: new site live. Send a test lead end to end into Salesforce.",
+     "2026-12-01#1": "Start the 2027 plan: structure, actual spend by line, what each line returned. Include two AI Councils a year (next in Phoenix, more client case studies) and the April CXO talk as an ibex AI discoverability case study.",
+     "2026-12-08#0": "Review the December joint press release with Josh. Ask about a joint event for the first half of 2027; drop it if Sierra won't co-brand.",
+     "2026-12-16#0": "Publish the December joint Sierra press release.",
+     "2026-12-31#0": "Confirm: lead baseline agreed, Sierra releases, brand audit, team structure, AI workflows, discoverability, scorecard. Everything due December 31 now finishes December 23.",
+     "amuzwwudc": "Build the analyst inventory for Gartner, Everest, Forrester, Frost & Sullivan, HFS Research, ISG, NelsonHall and Avasant from Dan's Tech Analyst List and Analyst Calendar (in the IBEX folder): contact, last interaction, report cycles, submission deadlines."
+    },
+    "moved": {
+     "2026-10-05#0": "2026-10-06",
+     "2026-10-07#4": "2026-10-15",
+     "2026-10-08#0": "2026-10-19",
+     "2026-10-12#0": "2026-10-19",
+     "2026-10-12#1": "2026-10-26",
+     "2026-10-12#2": "2026-10-19",
+     "2026-10-13#0": "2026-10-27",
+     "2026-10-15#1": "2026-10-21",
+     "2026-10-15#2": "2026-10-20",
+     "2026-10-16#0": "2026-10-21",
+     "2026-10-19#1": "2026-10-22",
+     "2026-10-20#0": "2026-10-22",
+     "2026-10-30#0": "2026-11-09",
+     "2026-11-12#1": "2026-12-04",
+     "2026-11-16#0": "2026-12-10",
+     "2026-11-19#0": "2026-12-14",
+     "2026-11-20#0": "2026-12-15",
+     "2026-11-20#1": "2026-12-15",
+     "2026-11-23#0": "2026-12-16",
+     "2026-12-23#0": "2026-12-21",
+     "2026-12-28#0": "2026-12-23",
+     "2026-12-29#0": "2026-12-22",
+     "2026-12-30#0": "2026-12-23",
+     "2026-12-30#1": "2026-12-23",
+     "2026-12-31#0": "2026-12-23",
+     "2026-12-31#1": "2026-12-23",
+     "m1007c": "2026-10-22"
+    }
+   },
+   "base": null
+  },
+  "runsheet/progress": {
+   "hash": "c6813357cc3d25af8849869cfe2be32a7022f48bf5fc789323e81ffc9f2596c8",
+   "data": {
+    "delivered": {},
+    "done": {
+     "2026-10-05#3": true,
+     "2026-10-05#4": true,
+     "2026-10-07#0": true,
+     "2026-10-07#1": true,
+     "2026-10-07#2": true,
+     "2026-10-07#4": true,
+     "2026-10-08#0": true,
+     "2026-10-09#0": true,
+     "2026-10-09#1": false,
+     "2026-10-12#1": true,
+     "2026-10-15#1": false,
+     "amuy7qw8h": true,
+     "amuzwwudc": false,
+     "m1007b": false
+    }
+   },
+   "base": null
+  },
+  "people/dan-burris": {
+   "hash": "e30a24284a6ce07be103adc2554329fc6fbfc94dae19229c1a723297c4ecc94a",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Get the Frost & Sullivan release out by Oct 21",
+     "Sequence HITRUST after Frost: Oct 22 or Oct 27",
+     "Unblock the Decode release with Bob",
+     "Confirm the earnings date with Shar; earnings date notice goes two weeks prior",
+     "Draft the Tennessee Carriers release",
+     "Go or no-go to Scott on the Oct 29 virtual event"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Frost license signed by Julie; waiting on Frost to approve the Sebastian Menutti quote, graphics in progress, aiming for midweek."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "BJ's still on hold with BJ's legal. Decode has every review except Bob's."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Following up with Dave DeLellis on the healthcare IT byline, expected within 48 hours. Locating the Ringman Forbes Tech Council abstract."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Will ask Julie whether to promote the AI Awards finalist status. Wants 2 to 3 representative awards a year."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Wants a separate analyst relations call later this week to set a six-month program."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Execs In The Know call",
+      "text": "Owes Scott a go or no-go on the Oct 29 virtual event ($12,500) by end of day. Dallas CRS mainstage case study pencilled in for Day 2 morning."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 budget review",
+      "text": "Checking whether the RedSonic/Glean charge was dropped or invoiced late. Sharing the IR website hosting contract with Andrew."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/kaye-mcintosh": {
+   "hash": "6fd31ff6f5fc13b7784a99e6567f968182c3308045f5996269966ee549180ec2",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "If the Oct 29 virtual event is a go, schedule the kickoff when Laurel reaches out"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Execs In The Know call",
+      "text": "Laurel at Execs In The Know will contact Kaye to schedule kickoff if ibex says yes to the Oct 29 event."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 budget review",
+      "text": "CCW Nashville dinner was co-hosted with Maven; ibex needs to collect Maven's half."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/isabel-membreno-pinto": {
+   "hash": "d7f20adecf60094a374598fc3ec6bb23f69516c213472362e0bdb98e05970ff9",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Reorder the announcement calendar and schedule distribution",
+     "Add earnings release and earnings date placeholders"
+    ],
+    "updates": []
+   },
+   "base": null
+  },
+  "people/julian-castillo": {
+   "hash": "3c7de1364c796041694b988f19eb4aa6fd3a48d1f4e013cf54bad12f886ce49e",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Contact center ROI follow-ups and new targets",
+     "Build the agentic AI shopping angle after the Preeti session"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Flagged the CNBC UK call for sources; ibex has no UK presence, so look for a global angle instead."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/emily-stevens": {
+   "hash": "744ea93eb51b2c68d076dda75727128f7ef1ffbd9524dac3dee3eed4b2fc65c9",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Send Dan the CMSWire article summary and full report, then pitch Dawn Nicastro",
+     "Awards sweep for upcoming representative awards",
+     "Globee Awards for Excellence submission, due Dec 10"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Proposed the CMSWire timely topic on AI-to-human escalation; Dan approved the angle."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/julie-casteel": {
+   "hash": "b28c28cda4a64a0bb34d8a4f10eb656a612e9ad9c541b8076d75b5f30449d618",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Final approval on the Bizwomen article",
+     "Decide whether to promote the AI Awards finalist status"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Signed the Frost & Sullivan licensing contract."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Recorded the Legends & Leaders podcast Oct 12; waiting for it to go live."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Has prompted Bob for feedback on the Decode release."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/brennan-furber": {
+   "hash": "ce24a774683e77b4d1fd74c5eecda0aeed2a67bced7e6e089c4dd9f303b6bd0d",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Develop the Ringman Forbes Tech Council byline once the abstract is approved",
+     "Pitch Darwal to CXM and Ringman to CMSWire",
+     "Send availability for this week's analyst relations call"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Waiting on ibex feedback for the 'Intelligence In The Loop' abstract shared last week."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/dan-schickerowsky": {
+   "hash": "5a5ef1b92d3a52a01eef95d923182e09ddcaf90718bdbd79214a24329a8f14dd",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Finish the Tennessee Carriers case study once Boyd sends updated numbers",
+     "Finish VKTR award edits",
+     "Settle how Wave iX is described: middleware, orchestration layer or solution"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Met Boyd at Tennessee Carriers on Friday. Boyd wants the case study named and is sending updated numbers."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "About three quarters through the VKTR submission; chasing answers on Wave iX terminology."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/heather-ohlig": {
+   "hash": "94792a8d49fcfa4d4e2088f62e17fde7a79d6a592e26f329ecde12f12a175bca",
+   "data": {
+    "capturedAt": "2026-10-21T14:00:00Z",
+    "priorities": [
+     "Set up Stage Zero opportunities for every Contact Us fill, with Khurram copied on routing",
+     "Confirm each Marketo form's thank-you page so GA4 can match fills",
+     "Sync with Andrew on the raw form-fill pull"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-20",
+      "source": "Heather's Contact Us analysis",
+      "text": "Contact Us campaigns since 2021 tie to 69 opportunities: 16 won, 5 open, 16 lost, 32 withdrawn. 18 show up only through campaign membership, including four Temu wins and Alo."
+     },
+     {
+      "date": "2026-10-20",
+      "source": "Heather's Contact Us analysis",
+      "text": "117 Contact Us fills since Oct 2024, ranked: 19 priority, 22 good fit, 55 low fit, 21 not sales leads."
+     },
+     {
+      "date": "2026-10-20",
+      "source": "Website forms audit",
+      "text": "Quick Connect and Build Your CX Team pop-ups post to the website, not Marketo, so those fills never reach Salesforce."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/andrew-kokes": {
+   "hash": "77fdbef7df82776619403f4d3038e35538b744183105715d550d2dc0e35f6668",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Audit and consolidate AI software spend across the team",
+     "Meet Shonda Chanat on the ~$106K LinkedIn enterprise share",
+     "Confirm the cost center for the Pivot AI Global line with Julie",
+     "Review the IR website hosting contract ahead of renegotiation"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 budget review",
+      "text": "Q1 marketing came in $87,265 favorable: $32,741 labor, $54,524 non-labor."
+     },
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Joining ibex full time was announced to the Hoffman team."
+     }
+    ]
+   },
+   "base": null
+  },
+  "people/jenn-zimmer": {
+   "hash": "56ba6d347d9c4dd0a83bb885e58483d06d99209bd530b239c19339bf4463c98b",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Send the Preeti sourcing questions by end of day Oct 19",
+     "Sourcing call with Preeti, Tue Oct 20, 4 PM ET"
+    ],
+    "updates": []
+   },
+   "base": null
+  },
+  "people/alissa-reeves": {
+   "hash": "e54a8a76ed668ff90926192b71e8e00436e3d3293c3710a4d8ab1f7623419416",
+   "data": {
+    "capturedAt": "2026-10-19T19:00:00Z",
+    "priorities": [
+     "Get the Bizwomen piece to Julie after Dan's review",
+     "Award edits with Dan: Stevie due Nov 11, VKTR due Nov 20"
+    ],
+    "updates": [
+     {
+      "date": "2026-10-19",
+      "source": "Oct 19 Hoffman call",
+      "text": "Made a few edits to the Bizwomen 'In Her Own Words' draft using the podcast notes. With Dan for review. Pieces go live about four months after approval."
+     }
+    ]
+   },
+   "base": null
+  }
+ },
+ "docs": {}
+}
